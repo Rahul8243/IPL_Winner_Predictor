@@ -153,6 +153,11 @@ First-innings score prediction model
 
 Add Model Explainability (SHAP)
 
+## 🚀 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen)](https://ipl-winner-predictor-the-rahul.streamlit.app/)
+
+
 🏁 Conclusion
 
 This project successfully demonstrates how cricket analytics and machine learning can be combined to build a realistic, real-time IPL match prediction system.
