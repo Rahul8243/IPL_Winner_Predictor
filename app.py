@@ -68,7 +68,7 @@ cities = [
 
 # LOAD MODEL
 pipe = pickle.load(open(
-    r'C:\Users\The Rahul\OneDrive\Desktop\IPL_winner_prediction\notebooks\pipe.pkl',
+    r'pipe.pkl',
     'rb'
 ))
 
