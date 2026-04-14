@@ -1,4 +1,4 @@
-# 🏏 IPL Winner Predictor
+#<p align="center">  🏏< IPL Winner Predictor </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Model-blue?style=for-the-badge"/>
@@ -97,7 +97,7 @@ crr = current_score / overs_completed
 rrr = (runs_left * 6) / balls_left
 wickets_left = 10 - wickets_fallen
 
-```markdown
+
 ### 🔹 Model Training
 - Train/Test Split (80/20)  
 - Logistic Regression Pipeline  
@@ -109,10 +109,9 @@ wickets_left = 10 - wickets_fallen
 - Real-time prediction interface  
 - Interactive probability visualization  
 
----
+
 ## 🚀 Run Locally
 
-```bash
 # Clone the repo
 git clone https://github.com/Rahul8243/IPL_Winner_Predictor.git
 
@@ -135,18 +134,14 @@ streamlit run app.py
   </a>
 </p>
 
-<p align="center">
-  🔗 <a href="https://ipl-winner-predictor-the-rahul.streamlit.app/">Click here to open the app</a>
-</p>
-
-```markdown
+```
 
 ## 📊 Results
 
-✔ Accurate win probability prediction  
-✔ Real-time match progression tracking  
-✔ Works across IPL seasons & teams  
-✔ Lightweight and fast model  
+ Accurate win probability prediction  
+ Real-time match progression tracking  
+ Works across IPL seasons & teams  
+ Lightweight and fast model  
 
 ---
 
