@@ -136,12 +136,10 @@ streamlit run app.py
 
 
 ## 📊 Results
-<p>
-  ✔ Accurate win probability prediction  
-✔ Real-time match progression tracking  
-✔ Works across IPL seasons & teams  
-✔ Lightweight and fast model
-</p>
+- Accurate win probability prediction  
+- Real-time match progression tracking  
+- Works across IPL seasons & teams  
+- Lightweight and fast model
 
 ## 🔮Future Enhancements
 
@@ -162,17 +160,18 @@ streamlit run app.py
 <h2 align="center">👨‍💻 Author</h2>
 
 <div align="center">
-**Rahul Kumar**
+  Rahul Kumar
 
 </div>
 
 
 <h2 align="center">⭐ Support</h2>
-
+<div align="center">
 If you found this project helpful, consider giving it a ⭐
-
+</div>
 <h2 align="center">🏁 Conclusion</h2>
-
-This project demonstrates how **machine learning + cricket analytics** can be combined to build a **real-time predictive system**.
+<div align="center">
+This project demonstrates how **machine learning + cricket analytics** can be combined to build a **real-time predictive system.
+</div>
 
 It serves as a strong foundation for advanced sports analytics, live prediction systems, and AI-powered dashboards.
