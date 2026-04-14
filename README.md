@@ -135,19 +135,15 @@ streamlit run app.py
 </p>
 
 
-<h2 align="center">📊 Results</h2>
-
-<div align="center">
-
-✔ Accurate win probability prediction  
+## 📊 Results
+<p>
+  ✔ Accurate win probability prediction  
 ✔ Real-time match progression tracking  
 ✔ Works across IPL seasons & teams  
-✔ Lightweight and fast model  
+✔ Lightweight and fast model
+</p>
 
-</div>
-
-
-<h2 align="center">🔮 Future Enhancements</h2>
+## 🔮Future Enhancements
 
 - XGBoost / Deep Learning models  
 - Player-level features (batsman vs bowler)  
@@ -156,7 +152,7 @@ streamlit run app.py
 - Model explainability (SHAP)  
 
 
-<h2 align="center">🧠 Key Learnings</h2>
+## 🧠 Key Learnings
 
 - Feature engineering in sports analytics  
 - Handling real-world noisy datasets  
@@ -165,7 +161,10 @@ streamlit run app.py
 
 <h2 align="center">👨‍💻 Author</h2>
 
+<div align="center">
 **Rahul Kumar**
+
+</div>
 
 
 <h2 align="center">⭐ Support</h2>
