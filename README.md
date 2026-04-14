@@ -63,14 +63,16 @@ Derived powerful cricket features:
 
 ## 🏗️ Project Architecture
 
+```
 📦 IPL_Winner_Predictor
-┣ 📁 data
-┣ 📁 notebooks
-┃ ┣ 📄 ipl_winner_predictor.ipynb
-┃ ┗ 📄 pipe.pkl
-┣ 📄 app.py
-┣ 📄 requirements.txt
-┗ 📄 README.md
+ ┣ 📁 data
+ ┣ 📁 notebooks
+ ┃ ┣ 📄 ipl_winner_predictor.ipynb
+ ┃ ┗ 📄 pipe.pkl
+ ┣ 📄 app.py
+ ┣ 📄 requirements.txt
+ ┗ 📄 README.md
+```
 
 
 ---
@@ -116,14 +118,19 @@ pip install -r requirements.txt
 # Run app
 streamlit run app.py
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-🚀 Try the live application:
+> ⚡ Experience real-time IPL match prediction powered by Machine Learning
 
-<p align="center"> <a href="https://ipl-winner-predictor-the-rahul.streamlit.app/"> <img src="https://img.shields.io/badge/Streamlit-Live_App-success?style=for-the-badge&logo=streamlit"> </a> </p>
+<p align="center">
+  <a href="https://ipl-winner-predictor-the-rahul.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Launch Live App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+</p>
 
-🔗 Direct Link:
-https://ipl-winner-predictor-the-rahul.streamlit.app/
+<p align="center">
+  🔗 <a href="https://ipl-winner-predictor-the-rahul.streamlit.app/">Click here to open the app</a>
+</p>
 
 📊 Results
 
