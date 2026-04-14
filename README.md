@@ -64,11 +64,6 @@ Includes powerful cricket features:
 - Clean and intuitive dashboard  
 
 ---
-
-## 🏗️ Project Architecture
-
-
-
 ## 🏗️ Project Architecture
 
 ```
@@ -95,25 +90,29 @@ Includes powerful cricket features:
 
 ### 🔹 Feature Engineering
 
-python
+```python
 runs_left = target - current_score
 balls_left = 120 - balls_bowled
 crr = current_score / overs_completed
 rrr = (runs_left * 6) / balls_left
 wickets_left = 10 - wickets_fallen
 
+```markdown
+### 🔹 Model Training
+- Train/Test Split (80/20)  
+- Logistic Regression Pipeline  
+- OneHotEncoding for categorical variables  
+- Evaluated using accuracy & probability outputs  
 
-🔹 Model Training
-Train/Test Split (80/20)
-Logistic Regression Pipeline
-OneHotEncoding for categorical variables
-Evaluated using accuracy & probability outputs
+### 🔹 Deployment
+- Built using Streamlit  
+- Real-time prediction interface  
+- Interactive probability visualization  
 
-🔹 Deployment
-Built using Streamlit
-Real-time prediction interface
-Interactive probability visualization
+---
+## 🚀 Run Locally
 
+```bash
 # Clone the repo
 git clone https://github.com/Rahul8243/IPL_Winner_Predictor.git
 
@@ -124,6 +123,7 @@ pip install -r requirements.txt
 
 # Run app
 streamlit run app.py
+```
 
 ## 🌐 Live Demo
 
@@ -139,34 +139,49 @@ streamlit run app.py
   🔗 <a href="https://ipl-winner-predictor-the-rahul.streamlit.app/">Click here to open the app</a>
 </p>
 
-📊 Results
+```markdown
 
-✔ Accurate win probability prediction
-✔ Real-time match progression tracking
-✔ Works across IPL seasons & teams
-✔ Lightweight and fast model
+## 📊 Results
 
-🔮 Future Enhancements
-XGBoost / Deep Learning models
-Player-level features (batsman vs bowler)
-Live API integration (Cricbuzz / ESPN)
-First innings score prediction
-Model explainability (SHAP)
-🧠 Key Learnings
-Feature engineering in sports analytics
-Handling real-world noisy datasets
-Building interpretable ML pipelines
-Deploying ML models with Streamlit
-👨‍💻 Author
+✔ Accurate win probability prediction  
+✔ Real-time match progression tracking  
+✔ Works across IPL seasons & teams  
+✔ Lightweight and fast model  
 
-Rahul Kumar
+---
 
-⭐ Support
+## 🔮 Future Enhancements
+
+- XGBoost / Deep Learning models  
+- Player-level features (batsman vs bowler)  
+- Live API integration (Cricbuzz / ESPN)  
+- First innings score prediction  
+- Model explainability (SHAP)  
+
+---
+
+## 🧠 Key Learnings
+
+- Feature engineering in sports analytics  
+- Handling real-world noisy datasets  
+- Building interpretable ML pipelines  
+- Deploying ML models with Streamlit  
+
+---
+## 👨‍💻 Author
+
+**Rahul Kumar**
+
+---
+
+## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐
 
-🏁 Conclusion
+---
 
-This project demonstrates how machine learning + cricket analytics can be combined to build a real-time predictive system.
+## 🏁 Conclusion
+
+This project demonstrates how **machine learning + cricket analytics** can be combined to build a **real-time predictive system**.
 
 It serves as a strong foundation for advanced sports analytics, live prediction systems, and AI-powered dashboards.
