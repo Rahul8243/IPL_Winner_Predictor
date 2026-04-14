@@ -1,4 +1,4 @@
-#<p align="center">  🏏< IPL Winner Predictor </p>
+#  <h1>🏏< IPL Winner Predictor </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Model-blue?style=for-the-badge"/>
