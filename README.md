@@ -1,4 +1,4 @@
-# 🏏IPL Winner Predictor 
+<h1 align="center">🏏IPL Winner Predictor </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Model-blue?style=for-the-badge"/>
@@ -36,7 +36,7 @@ It dynamically adapts to match conditions using:
 
 ---
 
-## 🧠 Key Highlights
+<h2 align="center">🧠 Key Highlights</h2>
 
 ### ⚡ Real-Time Prediction Engine
 Predicts match outcomes dynamically at any stage of the chase.
@@ -64,7 +64,7 @@ Includes powerful cricket features:
 - Clean and intuitive dashboard  
 
 ---
-## 🏗️ Project Architecture
+<h2 align="center">🏗️ Project Architecture</h2>
 
 ```
 📦 IPL_Winner_Predictor
@@ -78,7 +78,7 @@ Includes powerful cricket features:
 ```
 ---
 
-## ⚙️ How It Works
+<h2 align="center">⚙️ How It Works</h2>
 
 ### 🔹 Data Preprocessing
 - Standardized team names  
@@ -124,7 +124,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🌐 Live Demo
+<h2 align="center">🌐 Live Demo</h2>
 
 > ⚡ Experience real-time IPL match prediction powered by Machine Learning
 
@@ -134,18 +134,16 @@ streamlit run app.py
   </a>
 </p>
 
-```
 
-## 📊 Results
+<h2 align="center">📊 Results</h2>
 
  Accurate win probability prediction  
  Real-time match progression tracking  
  Works across IPL seasons & teams  
  Lightweight and fast model  
 
----
 
-## 🔮 Future Enhancements
+<h2 align="center">🔮 Future Enhancements</h2>
 
 - XGBoost / Deep Learning models  
 - Player-level features (batsman vs bowler)  
@@ -153,29 +151,24 @@ streamlit run app.py
 - First innings score prediction  
 - Model explainability (SHAP)  
 
----
 
-## 🧠 Key Learnings
+<h2 align="center">🧠 Key Learnings</h2>
 
 - Feature engineering in sports analytics  
 - Handling real-world noisy datasets  
 - Building interpretable ML pipelines  
 - Deploying ML models with Streamlit  
 
----
-## 👨‍💻 Author
+<h2 align="center">👨‍💻 Author</h2>
 
 **Rahul Kumar**
 
----
 
-## ⭐ Support
+<h2 align="center">⭐ Support</h2>
 
 If you found this project helpful, consider giving it a ⭐
 
----
-
-## 🏁 Conclusion
+<h2 align="center">🏁 Conclusion</h2>
 
 This project demonstrates how **machine learning + cricket analytics** can be combined to build a **real-time predictive system**.
 
