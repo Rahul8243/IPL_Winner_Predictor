@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Project Overview
+<h2 align="center">📌 Project Overview</h2>
 
 The **IPL Winner Predictor** is a machine learning–powered system that estimates the **real-time winning probability** of an IPL match during the second innings.
 
