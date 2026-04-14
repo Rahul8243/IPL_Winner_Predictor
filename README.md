@@ -137,10 +137,16 @@ streamlit run app.py
 
 <h2 align="center">📊 Results</h2>
 
- Accurate win probability prediction  
- Real-time match progression tracking  
- Works across IPL seasons & teams  
- Lightweight and fast model  
+<div align="center">
+
+<ul>
+  <li>Accurate win probability prediction</li>
+  <li>Real-time match progression tracking</li>
+  <li>Works across IPL seasons & teams</li>
+  <li>Lightweight and fast model</li>
+</ul>
+
+</div> 
 
 
 <h2 align="center">🔮 Future Enhancements</h2>
